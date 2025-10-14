@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-family: arial;
+    color: white;
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+    box-sizing: border-box;
+    background-color: rgb(0, 0, 0);
+}
+
+.kotak{
+    display:block;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: auto;
+    height: 50px;
+    margin: 0;
+    background-color: rgb(255, 255, 255);
+    }
+
+.gambar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    width: 25%;
+    height: auto;
+}
+
