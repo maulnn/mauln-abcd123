@@ -184,8 +184,6 @@ body {
     border: none; 
 }
 
-
-/* Media Query untuk Responsif */
 @media (max-width: 768px) {
     .profile-card {
         flex-direction: column;
