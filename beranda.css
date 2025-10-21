@@ -66,9 +66,9 @@ body {
 .profile-image {
     width: 200px;
     height: 200px; 
-    border-radius: 50%; /* Ini yang membuat foto bulat */
+    border-radius: 50%; 
     object-fit: cover;
-    border: 5px solid #ffcccc; /* Border pink muda */
+    border: 5px solid #ffcccc; 
 }
 
 .about-content {
@@ -160,14 +160,12 @@ body {
     border-radius: 10px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
     text-align: center; 
-    /* PERUBAHAN: Warna teks menjadi HITAM */
     color: #4a4a4a;
 }
 
 .reason-content .section-title {
     font-size: 1.8em; 
     font-weight: bold;
-    /* PERUBAHAN: Warna judul menjadi HITAM */
     color: #333; 
     margin-top: 0; 
     margin-bottom: 30px; 
